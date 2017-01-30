@@ -19,7 +19,7 @@ A Git exercise that involves the creation of a castle.
 > ⚠️ **NEVER** work on the `master` branch -- **MAKE SURE** you're on your feature branch when making huge changes.
 >
 > ⚠️ **NEVER** make a Pull Request from your feature branch into `master`.
-> 
+>
 > ⚠️ **NEVER** merge in stuff from your feature branch into `master`.
 >
 > **ALWAYS** keep your local `develop` branch up-to-date with the remote `develop` branch
@@ -30,11 +30,11 @@ A Git exercise that involves the creation of a castle.
 > Create a feature branch for the amendments then make a Pull Request into the `develop` branch once you're finished.
 
 ## Castle Engineers
-* **Scott** - Right Tower (*Starts at line 4*)
-* **Abdi** - Left Tower (*Starts at line 34*)
-* **Alex** - Castle Roof
-* **Hussein** - Castle Body
-* **Sharad** - Castle Platform
+* **Team Member 1** - Right Tower (*Starts at line 4*)
+* **Team Member 2** - Left Tower (*Starts at line 34*)
+* **Team Member 3** - Castle Roof
+* **Team Member 4** - Castle Body
+* **Team Member 5** - Castle Platform
 
 ## Castle
 > This is how the castle should look like in its final version.
@@ -65,4 +65,3 @@ A Git exercise that involves the creation of a castle.
 [castle_body]: assets/body.png
 
 [castle_roof]: assets/roof.png
-
